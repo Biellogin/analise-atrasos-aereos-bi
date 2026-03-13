@@ -16,5 +16,7 @@ Este projeto apresenta uma análise detalhada dos atrasos em voos, transformando
 * `/02_Scripts_SQL`: Contém o script de tratamento de dados.
 * `/03_Dashboard_PBI`: Arquivo .pbix com o relatório final.
 
+![Demonstração do Dashboard](Atraso de voo)
+
 ---
 *Projeto desenvolvido por Gabriel Cardoso para fins de portfólio em Análise de Dados.*
